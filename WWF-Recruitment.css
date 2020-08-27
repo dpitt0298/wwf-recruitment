@@ -172,4 +172,13 @@ border-bottom: 1.5px solid #222 !important;
    .wwf-footer-right span{
      margin: 1.2rem 1rem;
    }
+   
+   .wwf-footer-logo{
+     display: none;
+   }
+   
+   #fixednavigation a:link, #fixednavigation-v-small a:link, #fixednavigation a:visited, #fixednavigation-v-small a:visited{
+     color: #000;
+   }
+
 }
