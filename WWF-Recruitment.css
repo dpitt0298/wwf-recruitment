@@ -119,6 +119,10 @@ font-family: WWF;
 font-size: 1.4rem;
 text-transform: uppercase;
 padding: 1rem 9.5rem;
+   transition: background-color 0.2s ease;
 }
 
+.wwf-top-header{
+color: #f89834;
+}
 
