@@ -9,9 +9,7 @@
 
 @font-face {
   font-family: 'WWF';
-  src: url('WWF.svg#WWF') format('svg'),
-       url('WWF.ttf') format('truetype'),
-       url('WWF.woff') format('woff');
+  src: url('https://www.wwf.org.uk/themes/custom/wwf/fonts/WWF-WEBFONT.ttf');
   font-weight: normal;
   font-style: normal;
 }
