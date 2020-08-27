@@ -160,4 +160,16 @@ color: #f89834;
      color: #000 !important;
 border-bottom: 1.5px solid #222 !important;
    }
+   
+   .wwf-footer-container{
+     flex-direction: column;
+   }
+   
+   .wwf-footer-right, .wwf-footer-left {
+    width: 100%;
+   }
+   
+   .wwf-footer-right span{
+     margin: 1.2rem 1rem;
+   }
 }
