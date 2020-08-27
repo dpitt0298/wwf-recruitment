@@ -40,6 +40,10 @@ font-size: .9rem;
   text-decoration:none!important;
 }
 
+#messageDivP{
+background-color: #000;
+}
+
 .job-search-link{
 background-color: #f89834;
   color: #fff!important;
