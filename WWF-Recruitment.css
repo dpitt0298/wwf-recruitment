@@ -9,7 +9,7 @@ h1{
   font-family: WWF!important;
 }
 
-.wwf-header{
+#wwf-header{
 width: 100%;
 display: flex;
 justify-content: center;
