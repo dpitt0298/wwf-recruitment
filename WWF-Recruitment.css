@@ -148,27 +148,6 @@ text-transform: uppercase;
 color: #f89834;
 }
 
-.slogan{
-  width: 74px;
-height: 74px;
-margin-left: 20px;
-transition: opacity 0.3s linear;
-background-image: url(/themes/custom/wwf_support/dist/images/wwf_planet.svg);
-background-repeat: no-repeat;
-background-position: 50% 50%;
-background-size: 100% auto;
-opacity: 1;
-line-height: 1;
-}
-
-.visually-hidden{
-  position: absolute !important;
-width: 1px;
-height: 1px;
-overflow: hidden;
-clip: rect(1px,1px,1px,1px);
-word-wrap: normal;
-}
 
  @media only screen and (max-width: 1025px) {
 .wwf-top-header{
@@ -178,6 +157,7 @@ word-wrap: normal;
    
    .job-search-link{
      background: none;
-     color: #000;
+     color: #000 !important;
+border-bottom: 1.5px solid #222 !important;
    }
 }
