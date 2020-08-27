@@ -107,6 +107,11 @@ font-size: 1.4rem;
 margin: 0 1rem;
 }
 
+.wwf-footer-left a:hover{
+ text-decoration: underline; 
+}
+
+
 .wwf-footer-right{
 width: 50%;
 display: flex;
