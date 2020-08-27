@@ -14,7 +14,14 @@
   font-style: normal;
 }
 
-
+/* @font-face {
+  font-family: 'WWF';
+  src: url('WWF.svg#WWF') format('svg'),
+       url('WWF.ttf') format('truetype'),
+       url('WWF.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+} */
 
 h1{
   font-family: WWF!important;
