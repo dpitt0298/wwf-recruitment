@@ -1,27 +1,9 @@
 @font-face {
-  font-family: 'WWF-WEBFONT';
-  src: url('WWF-WEBFONT.eot');
-  src: url('WWF-WEBFONT.eot?#iefix') format('embedded-opentype'),
-       url('WWF-WEBFONT.woff2') format('woff2');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
   font-family: 'WWF';
   src: url('https://wwf-fonts.s3-eu-west-1.amazonaws.com/WWF-WEBFONT.ttf');
   font-weight: normal;
   font-style: normal;
 }
-
-/* @font-face {
-  font-family: 'WWF';
-  src: url('WWF.svg#WWF') format('svg'),
-       url('WWF.ttf') format('truetype'),
-       url('WWF.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-} */
 
 h1{
   font-family: WWF!important;
@@ -33,6 +15,7 @@ display: flex;
 justify-content: center;
 padding: 1rem 0;
 }
+
 .wwf-logo{
   width: 3rem;
 }
