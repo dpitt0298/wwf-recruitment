@@ -58,8 +58,8 @@ transition: 0.2s ease;
 }
 
 .standard_bu:hover{
-background-color: #f26647;
-border: #f26647;
+background-color: #df882e;
+border: #df882e;
 }
 
 #menu{
@@ -107,7 +107,7 @@ align-items: center;
 }
 
 .wwf-footer-right span{
-      font-size: 0.8rem;
+      font-size: 0.9rem;
     color: #606060;
 }
 
