@@ -37,10 +37,12 @@ font-size: .9rem;
 background-color: #f89834;
   color: #fff!important;
 font-weight: bold;
+  border-bottom: 1.5px solid #fff !important;
 }
 
 #wr_navigation[fixednavigation-v-large] #menu li a{
   margin-bottom: 0!important;
+  border-bottom: 1px solid #999;
 }
 
 .wr_header{
