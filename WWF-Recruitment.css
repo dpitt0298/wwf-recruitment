@@ -34,7 +34,7 @@ font-size: .9rem;
 
 .job-search-link{
 background-color: #f89834;
-  color: #fff;
+  color: #fff!important;
 font-weight: bold;
 }
 
