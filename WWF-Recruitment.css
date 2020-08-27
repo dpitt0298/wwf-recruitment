@@ -28,6 +28,7 @@ font-size: .9rem;
 }
 
 .li1 a:hover{
+  color: #fff!important;
   background-color: #f89834;
   text-decoration:none!important;
 }
@@ -65,4 +66,8 @@ border: #f26647;
 
 #fixednavigation a:link, #fixednavigation-v-small a:link{
  color: #acacac; 
+}
+
+#fixednavigation a:visited, #fixednavigation-v-small a:visited{
+   color: #acacac; 
 }
