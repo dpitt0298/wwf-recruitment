@@ -78,6 +78,10 @@ table.page_header, table.sect_header td.theader h2, table.sect_header div.header
   font-family: 'Open Sans', sans-serif;
 }
 
+.wwf-footer-container{
+  border-top: 1px solid #d9d6d6;
+}
+
 .wwf-footer-logo{
   width: 4rem;
   margin-right: 1rem;
@@ -92,3 +96,5 @@ width: 50%;
 display: flex;
 align-items: center;
 }
+
+
