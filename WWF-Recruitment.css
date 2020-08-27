@@ -8,15 +8,17 @@
 h1{
   font-family: WWF!important;
 }
-
 #wwf-header{
+    -webkit-box-shadow: 0px 1px 8px 0px rgba(0,0,0,0.18);
+-moz-box-shadow: 0px 1px 8px 0px rgba(0,0,0,0.18);
+box-shadow: 0px 1px 8px 0px rgba(0,0,0,0.18);
+}
+.wwf-header{
 width: 100%;
 display: flex;
 justify-content: center;
 padding: 1rem 0;
-  -webkit-box-shadow: 0px 1px 8px 0px rgba(0,0,0,0.18);
--moz-box-shadow: 0px 1px 8px 0px rgba(0,0,0,0.18);
-box-shadow: 0px 1px 8px 0px rgba(0,0,0,0.18);
+
 }
 
 .wwf-logo{
