@@ -20,6 +20,9 @@ padding: 1rem 0;
   width: 8rem;
 }
 
+#wr_content{
+  background-color: #fff;
+}
 .li1 a{
  font-family: 'Open Sans', sans-serif;
    padding: .4rem .6rem !important;
