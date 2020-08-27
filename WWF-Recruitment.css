@@ -59,10 +59,13 @@ transition: 0.2s ease;
 
 .standard_bu:hover{
 background-color: #f9a54d;
+  color: #fff;
 border: #f9a54d;
+  
 }
 
 .standard_bu:hover, .standard_bu:active, .standard_bu:focus{
+    color: #fff;
   background: #f9a54d;
 }
 
