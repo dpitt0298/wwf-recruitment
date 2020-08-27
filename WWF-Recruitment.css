@@ -112,4 +112,13 @@ padding: 1rem 2rem;
 align-items: center;
 }
 
+.wwf-top-header{
+  background: #000;
+color: #fff;
+font-family: WWF;
+font-size: 1.4rem;
+text-transform: uppercase;
+padding: 1rem 9.5rem;
+}
+
 
