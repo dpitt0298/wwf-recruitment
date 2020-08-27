@@ -48,6 +48,8 @@ background-color: #000;
 background-color: #f89834;
   color: #fff!important;
 font-weight: bold;
+}
+.job-search-link a{
   border-bottom: 1.5px solid #fff !important;
 }
 
