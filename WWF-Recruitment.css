@@ -22,15 +22,17 @@ padding: 1rem 0;
 
 .li1{
  font-family: 'Open Sans', sans-serif;
-font-size: 1rem;
+  background: #f89834;
+   padding: .2rem .4rem;
+font-size: .9rem;
 }
 
-a:hover{
-  text-decoration:none;
+.li1 a:hover{
+  text-decoration:none!important;
 }
+
 .job-search-link{
-font-weight: 500;
- padding: .2rem .4rem;
+font-weight: bold;
 }
 
 
