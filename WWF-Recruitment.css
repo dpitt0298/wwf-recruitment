@@ -37,4 +37,6 @@ background-color: #f89834;
 font-weight: bold;
 }
 
-
+#wr_navigation[fixednavigation-v-large] #menu li a{
+  margin-bottom: 0!important;
+}
