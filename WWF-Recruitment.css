@@ -20,10 +20,9 @@ padding: 1rem 0;
   width: 3rem;
 }
 
-.li1{
+.li1 a{
  font-family: 'Open Sans', sans-serif;
-  background: #f89834;
-   padding: .2rem .4rem;
+   padding: .2rem .4rem!important;
 font-size: .9rem;
     transition: background-color 0.25s ease-in;
 }
