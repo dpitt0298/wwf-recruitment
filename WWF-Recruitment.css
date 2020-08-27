@@ -114,15 +114,19 @@ align-items: center;
 
 .wwf-top-header{
   background: #000;
-color: #fff;
+padding: 1rem 9.5rem;
+}
+
+.wwf-top-header a{
+  color: #fff;
 font-family: WWF;
 font-size: 1.4rem;
 text-transform: uppercase;
-padding: 1rem 9.5rem;
-   transition: background-color 0.2s ease;
+     transition: color 0.2s ease;
+
 }
 
-.wwf-top-header:hover {
+.wwf-top-header a:hover {
 color: #f89834;
 }
 
