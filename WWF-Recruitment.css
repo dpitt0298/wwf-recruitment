@@ -40,3 +40,15 @@ font-weight: bold;
 #wr_navigation[fixednavigation-v-large] #menu li a{
   margin-bottom: 0!important;
 }
+
+.wr_header{
+  -webkit-box-shadow: 0px 1px 8px 0px rgba(0,0,0,0.18);
+    -moz-box-shadow: 0px 1px 8px 0px rgba(0,0,0,0.18);
+    box-shadow: 0px 1px 8px 0px rgba(0,0,0,0.18);
+}
+
+.standard_bu{
+background-color: #f26647;
+border: #f26647;
+}
+
