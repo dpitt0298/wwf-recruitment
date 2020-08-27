@@ -20,7 +20,12 @@ padding: 1rem 0;
   width: 3rem;
 }
 
-.job-search-link{
-  font-family: poppins;
+.li1{
+ font-family: poppins;
 font-size: 1rem;
 }
+.job-search-link{
+font-weight: 500;
+}
+
+
