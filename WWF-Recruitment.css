@@ -48,7 +48,12 @@ font-weight: bold;
 }
 
 .standard_bu{
+background-color: #f89834;
+border: #f89834;
+transition: 0.2s ease;
+}
+
+.standard_bu:hover{
 background-color: #f26647;
 border: #f26647;
 }
-
