@@ -72,6 +72,6 @@ border: #f26647;
    color: #acacac; 
 }
 
-table.page_header table.sect_header td.theader h2, table.sect_header div.header h2, div.sect_header h2{
+table.page_header, table.sect_header td.theader h2, table.sect_header div.header h2, div.sect_header h2{
   font-family: 'Open Sans', sans-serif;
 }
