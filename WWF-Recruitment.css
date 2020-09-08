@@ -68,10 +68,9 @@ transition: 0.2s ease;
 }
 
 .standard_bu:hover, .standard_bu:active, .standard_bu:focus{
-    color: #000;
-  background: #f9a54d;
+  color: #000!important;
+  background-color: #f9a54d!important;
   border: #f9a54d;
-
 }
 
 #menu{
