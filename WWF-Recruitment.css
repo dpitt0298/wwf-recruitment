@@ -24,6 +24,20 @@ padding: 1rem 0;
   background-color: #fff;
   margin-top: 1rem;
 }
+
+.keepopen a{
+  font-family: 'Open Sans', sans-serif;
+   padding: .4rem .6rem !important;
+font-size: .9rem;
+    transition: background-color 0.2s ease;
+}
+
+.keepopen a:hover {
+ color: #fff!important;
+  background-color: #f89834;
+  text-decoration:none!important;
+}
+
 .li1 a{
  font-family: 'Open Sans', sans-serif;
    padding: .4rem .6rem !important;
