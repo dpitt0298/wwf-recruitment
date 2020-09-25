@@ -1,0 +1,207 @@
+@font-face {
+  font-family: 'WWF';
+  src: url('https://wwf-fonts.s3-eu-west-1.amazonaws.com/WWF-WEBFONT.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1{
+  font-family: WWF!important;
+}
+
+.wwf-header{
+width: 100%;
+display: flex;
+justify-content: center;
+padding: 1rem 0;
+}
+
+.wwf-logo{
+  width: 8rem;
+}
+
+#wr_content{
+  background-color: #fff;
+  margin-top: 1rem;
+}
+
+.keepopen a{
+  font-family: 'Open Sans', sans-serif;
+   padding: .4rem .6rem !important;
+font-size: .9rem;
+    transition: background-color 0.2s ease;
+}
+
+.keepopen a:hover {
+ color: #fff!important;
+  background-color: #f89834;
+  text-decoration:none!important;
+}
+
+.li1 a{
+ font-family: 'Open Sans', sans-serif;
+   padding: .4rem .6rem !important;
+font-size: .9rem;
+    transition: background-color 0.2s ease;
+}
+
+.li1 a:hover{
+  color: #fff!important;
+  background-color: #f89834;
+  text-decoration:none!important;
+}
+
+#messageDiv{
+background-color: #000;
+}
+
+.job-search-link{
+background-color: #f89834;
+  color: #fff!important;
+font-weight: bold;
+}
+.job-search-link a{
+  border-bottom: 1.5px solid #fff !important;
+}
+
+#wr_navigation[fixednavigation-v-large] #menu li a{
+  margin-bottom: 0!important;
+  border-bottom: 1px solid #999;
+}
+
+#wr_header{
+  -webkit-box-shadow: 0px 1px 8px 0px rgba(0,0,0,0.18);
+    -moz-box-shadow: 0px 1px 8px 0px rgba(0,0,0,0.18);
+    box-shadow: 0px 1px 8px 0px rgba(0,0,0,0.18);
+}
+
+.standard_bu{
+background-color: #f89834;
+border: #f89834;
+transition: 0.2s ease;
+}
+
+.standard_bu:hover, .standard_bu:active, .standard_bu:focus{
+  color: #000!important;
+  background-color: #f9a54d!important;
+  border: #f9a54d;
+}
+
+#menu{
+  background: #444;
+}
+
+#fixednavigation a:link, #fixednavigation-v-small a:link{
+ color: #acacac; 
+}
+
+#fixednavigation a:visited, #fixednavigation-v-small a:visited{
+   color: #acacac; 
+}
+
+table.page_header, table.sect_header td.theader h2, table.sect_header div.header h2, div.sect_header h2{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.wwf-footer-container{
+  border-top: 1px solid #d9d6d6;
+}
+
+.wwf-footer-logo{
+  width: 3rem;
+  margin-right: 1rem;
+}
+
+.wwf-footer-left{
+  width: 50%;
+}
+
+.wwf-footer-left a{
+  font-family: WWF;
+  text-transform: uppercase;
+  color: #000;
+  text-decoration: none;
+font-size: 1.4rem;
+margin: 0 1rem;
+}
+
+.wwf-footer-left a:hover{
+ text-decoration: underline; 
+}
+
+
+.wwf-footer-right{
+width: 50%;
+display: flex;
+align-items: center;
+  text-align: left;
+}
+
+.wwf-footer-right span{
+      font-size: 0.9rem;
+    color: #606060;
+}
+
+.wwf-footer-container{
+display: flex;
+padding: 1rem 2rem;
+align-items: center;
+}
+
+.wwf-top-header{
+  background: #000;
+padding: 1rem 9.5rem;
+}
+
+.wwf-top-header a{
+  color: #fff;
+font-family: WWF;
+font-size: 1.4rem;
+text-transform: uppercase;
+  text-decoration: none;
+     transition: color 0.2s ease;
+
+}
+
+.wwf-top-header a:hover {
+color: #f89834;
+}
+
+
+ @media only screen and (max-width: 1025px) {
+.wwf-top-header{
+  text-align: center;
+  padding: 1rem 0;
+   }
+   
+   .job-search-link{
+     background: none;
+     color: #000 !important;
+border-bottom: 1.5px solid #222 !important;
+      font-family: 'Open Sans', sans-serif;
+   padding: .4rem .6rem !important;
+font-size: .9rem;
+    transition: background-color 0.2s ease;
+   }
+   
+   .wwf-footer-container{
+     flex-direction: column;
+   }
+   
+   .wwf-footer-right, .wwf-footer-left {
+    width: 100%;
+   }
+   
+   .wwf-footer-right span{
+     margin: 1.2rem 1rem;
+   }
+   
+   .wwf-footer-logo{
+     display: none;
+   }
+   
+   #fixednavigation a:link, #fixednavigation-v-small a:link, #fixednavigation a:visited, #fixednavigation-v-small a:visited{
+     color: #000;
+   }
+
+}
