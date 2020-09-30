@@ -25,18 +25,6 @@ padding: 1rem 11%;
   margin-top: 1rem;
 }
 
-.keepopen a{
-  font-family: 'Open Sans', sans-serif;
-   padding: .4rem .6rem !important;
-font-size: .9rem;
-    transition: background-color 0.2s ease;
-}
-
-.keepopen a:hover {
- color: #fff!important;
-  background-color: #f89834;
-  text-decoration:none!important;
-}
 
 .li1 a{
  font-family: 'Open Sans', sans-serif;
@@ -47,6 +35,20 @@ font-size: .9rem;
 }
 
 .li1 a:hover{
+  color: #fff!important;
+  background-color: #f89834;
+  text-decoration:none!important;
+}
+
+.keepopen a{
+ font-family: 'Open Sans', sans-serif;
+   padding: 1rem 1.2rem;
+font-size: .9rem;
+    transition: background-color 0.2s ease;
+  letter-spacing: .4px;
+}
+
+.keepopen a:hover{
   color: #fff!important;
   background-color: #f89834;
   text-decoration:none!important;
@@ -212,11 +214,11 @@ font-size: .9rem;
 }
 
 table.sect_header, div.sect_header {
-    border-top: 1px solid rgba(0,0,0, 0.2);
-    border-bottom: 1px solid rgba(0,0,0, 0.2);
-    border-left: 1px solid rgba(0,0,0, 0.2);
-    border-right: 1px solid rgba(0,0,0, 0.2);
-    background-color: rgba(0,0,0, 0.2);
+    border-top: 1px solid rgba(0,0,0, 0.1);
+    border-bottom: 1px solid rgba(0,0,0, 0.1);
+    border-left: 1px solid rgba(0,0,0, 0.1);
+    border-right: 1px solid rgba(0,0,0, 0.1);
+    background-color: rgba(0,0,0, 0.1);
     font-family: 'Open Sans', Arial, sans-serif;
     color: #333333;
     font-size: 1em;
