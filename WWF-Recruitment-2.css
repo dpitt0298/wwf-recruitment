@@ -205,3 +205,13 @@ font-size: .9rem;
    }
 
 }
+
+table.sect_header, div.sect_header {
+    border-top: 1px solid rgba(0,0,0, 0.2);
+    border-bottom: 1px solid rgba(0,0,0, 0.2);
+    border-left: 1px solid rgba(0,0,0, 0.2);
+    border-right: 1px solid rgba(0,0,0, 0.2);
+    background-color: rgba(0,0,0, 0.2);
+    font-family: 'Open Sans', Arial, sans-serif;
+    color: #333333;
+    font-size: 1em;
