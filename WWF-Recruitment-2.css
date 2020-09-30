@@ -87,10 +87,6 @@ transition: 0.2s ease;
   border: #f9a54d;
 }
 
-#menu{
-  background: #444;
-}
-
 #fixednavigation a:link, #fixednavigation-v-small a:link{
  color: #acacac; 
 }
