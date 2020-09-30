@@ -40,7 +40,8 @@ font-size: .9rem;
 
 .li1 a{
  font-family: 'Open Sans', sans-serif;
-   padding: .4rem .6rem !important;
+   padding: .6rem;
+  padding-right: 1.2rem;
 font-size: .9rem;
     transition: background-color 0.2s ease;
 }
@@ -89,8 +90,13 @@ transition: 0.2s ease;
 #fixednavigation a:link, #fixednavigation-v-small a:link{
   color: #fff;
 font-family: WWF;
-font-size: 1.1rem;
+font-size: 1.2rem;
 text-transform: uppercase;
+}
+
+
+body.horizontal #menu li{
+  padding: 0;
 }
 
 #fixednavigation a:visited, #fixednavigation-v-small a:visited{
