@@ -220,3 +220,7 @@ table.sect_header, div.sect_header {
     color: #333333;
     font-size: 1em;
 }
+
+body.horizontal #menu li:not(.last-menu-item):not(#log-out-list-item){
+  padding-right: 0!important;
+}
