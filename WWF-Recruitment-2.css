@@ -85,7 +85,7 @@ transition: 0.2s ease;
 }
 
 .standard_bu:hover, .standard_bu:active, .standard_bu:focus{
-  color: #000!important;
+  color: #222!important;
   background-color: #f9a54d!important;
   border: #f9a54d;
 }
@@ -237,4 +237,8 @@ body.horizontal #menu li:not(:first-of-type){
 
 a:hover, a:focus, #fixednavigation a:hover, #fixednavigation a:focus, #fixednavigation-v-small a:hover, #fixednavigation-v-small a:focus, #wr-context-menu a:hover, #wr-context-menu a:focus, .app-summary-section a:hover, .app-summary-section a:focus, a.intv_cancel:hover, a.intv_cancel:focus, .wr_msg a:hover, .wr_msg a:focus, .bu_as_link:hover, .previous-link:focus, .previous-link:hover, .next-link:focus, .next-link:hover, #appPages a, #wr_other a, .job-result-title{
   text-decoration: none;
+}
+
+a.apg_standard_bu, a.rpg_standard_bu, a.ppg_standard_bu, a.fin_standard_bu{
+  color: #222;
 }
