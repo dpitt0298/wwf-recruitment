@@ -294,6 +294,9 @@ font-size: 1.6rem;
   color: #F89834;
 }
 
+.application_page_nav input[name^="BU_UPDATE"]:hover, .application_page_nav input[name^="BU_UPDATE"]:active, .application_page_nav input[name^="BU_UPDATE"]:focus, input[name^="BU_CANCEL"]:hover, input[name^="BU_CANCEL"]:active, input[name^="BU_CANCEL"]:focus, body:not([page-name="myApplications"]):not([page-name="myProfile"]) input[name^="BU_BACK"]:hover, body:not([page-name="myApplications"]):not([page-name="myProfile"]) input[name^="BU_BACK"]:active, body:not([page-name="myApplications"]):not([page-name="myProfile"]) input[name^="BU_BACK"]:focus, input[name^="BU_RET"]:hover, input[name^="BU_RET"]:focus, body[page-name="sendToAFriendConf"] [name^="BU_SUBMIT"]:hover, body[page-name="sendToAFriendConf"] [name^="BU_SUBMIT"]:active, body[page-name="sendToAFriendConf"] [name^="BU_SUBMIT"]:focus, .standard_bu-grey:not(.dis):hover, .standard_bu-grey:not(.dis):active, .standard_bu-grey:not(.dis):focus, div.standard_bu-focus.standard_bu-grey, input[type="submit"].standard_bu-grey:not(.dis):hover, input[type="submit"].standard_bu-grey:not(.dis):focus{
+  background-color: rgba(136,136,136,0.5) !important;
+}
 /* Mandatory Icon Color */
 .mand_large{
   border-color: #e70000;
