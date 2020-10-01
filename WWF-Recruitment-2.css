@@ -243,7 +243,7 @@ a.apg_standard_bu, a.rpg_standard_bu, a.ppg_standard_bu, a.fin_standard_bu{
   color: #222;
 }
 
-.job-result-title{
+.job-result-title, a.social-media-link{
   transition: .2s ease;
 }
 
@@ -251,3 +251,6 @@ a.apg_standard_bu, a.rpg_standard_bu, a.ppg_standard_bu, a.fin_standard_bu{
   color: rgba(0,0,0, 0.6);
 }
 
+a.social-media-link:hover path, a.social-media-link:focus path {
+    fill: #f89834;
+}
