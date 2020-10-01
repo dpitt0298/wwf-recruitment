@@ -270,11 +270,15 @@ a.apg_standard_bu:focus, a.apg_standard_bu:hover, a.apg_standard_bu:active, a.rp
   color: #fff;
 }
 
+td span a{
+  color: #333;
+}
+
 /* Mandatory Icon Color */
 .mand_large{
   border-color: #e70000;
 }
 
 body:not(.high-contrast-mode) .ss_mand_hid::after{
-    border-color: #e70000;
+    color: #e70000;
 }
