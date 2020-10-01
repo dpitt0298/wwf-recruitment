@@ -265,3 +265,16 @@ top: 50%;
 left: 50%;
 transform: translate(-50%, -50%);
 }
+
+a.apg_standard_bu:focus, a.apg_standard_bu:hover, a.apg_standard_bu:active, a.rpg_standard_bu:focus, a.rpg_standard_bu:hover, a.rpg_standard_bu:active, a.ppg_standard_bu:focus, a.ppg_standard_bu:hover, a.ppg_standard_bu:active, a.fin_standard_bu:focus, a.fin_standard_bu:hover, a.fin_standard_bu:active{
+  color: #fff;
+}
+
+/* Mandatory Icon Color */
+.mand_large{
+  border-color: #e70000;
+}
+
+body:not(.high-contrast-mode) .ss_mand_hid::after{
+    border-color: #e70000;
+}
