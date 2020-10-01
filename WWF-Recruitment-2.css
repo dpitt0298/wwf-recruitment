@@ -61,6 +61,8 @@ background-color: #1c2e4a;
 .job-search-link{
 background-color: #f89834;
   color: #fff!important;
+  margin-top: -18px;
+padding: .74rem;
 }
 
 #wr_navigation[fixednavigation-v-large] #menu li a{
@@ -176,7 +178,6 @@ text-transform: uppercase;
 color: #f89834;
 }
 
-
  @media only screen and (max-width: 1025px) {
 .wwf-top-header{
   text-align: center;
@@ -191,6 +192,7 @@ border-bottom: 1.5px solid #222 !important;
    padding: .4rem .6rem !important;
 font-size: .9rem;
     transition: background-color 0.2s ease;
+     margin-top: -14px;
    }
    
    .wwf-footer-container{
