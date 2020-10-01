@@ -276,6 +276,13 @@ td span a{
   color: #333;
 }
 
+h1{
+  font-family: WWF;
+font-weight: normal;
+text-transform: capitalize;
+font-size: 1.6rem;
+}
+
 /* Mandatory Icon Color */
 .mand_large{
   border-color: #e70000;
