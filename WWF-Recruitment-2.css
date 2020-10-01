@@ -242,3 +242,12 @@ a:hover, a:focus, #fixednavigation a:hover, #fixednavigation a:focus, #fixednavi
 a.apg_standard_bu, a.rpg_standard_bu, a.ppg_standard_bu, a.fin_standard_bu{
   color: #222;
 }
+
+.job-result-title{
+  transition: .2s ease;
+}
+
+#appPages a, #wr_other a, .job-result-title:hover, .job-result-title:focus{
+  color: rgba(0,0,0, 0.6);
+}
+
