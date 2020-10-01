@@ -254,3 +254,10 @@ a.apg_standard_bu, a.rpg_standard_bu, a.ppg_standard_bu, a.fin_standard_bu{
 a.social-media-link:hover path, a.social-media-link:focus path {
     fill: #f89834;
 }
+
+#log-out-in-menu{
+  position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
