@@ -61,8 +61,6 @@ background-color: #1c2e4a;
 .job-search-link{
 background-color: #f89834;
   color: #fff!important;
-  margin-top: -18px;
-padding: .74rem;
 }
 
 #wr_navigation[fixednavigation-v-large] #menu li a{
@@ -189,10 +187,12 @@ color: #f89834;
      color: #000 !important;
 border-bottom: 1.5px solid #222 !important;
       font-family: 'Open Sans', sans-serif;
-   padding: .4rem .6rem !important;
+/*    padding: .4rem .6rem !important; */
 font-size: .9rem;
     transition: background-color 0.2s ease;
      margin-top: -14px;
+       margin-top: -18px;
+padding: .74rem;
    }
    
    .wwf-footer-container{
