@@ -178,7 +178,6 @@ color: #f89834;
  @media only screen and (max-width: 1121px) {
    .job-search-link{
      position: absolute!important;
-top: 0!important;
 padding: .74rem!important;
    }
 
@@ -206,7 +205,6 @@ border-bottom: 1.5px solid #222 !important;
 font-size: .9rem;
     transition: background-color 0.2s ease;
        margin-top: -18px;
-/* padding: .74rem; */
    }
 
    .wwf-footer-container{
