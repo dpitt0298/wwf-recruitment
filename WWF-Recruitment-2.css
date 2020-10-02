@@ -59,6 +59,7 @@ background-color: #444;
 }
 
 .job-search-link{
+  margin: 0;
 background-color: #f89834;
   color: #fff!important;
 }
