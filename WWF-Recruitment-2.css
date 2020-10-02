@@ -103,7 +103,7 @@ body.horizontal #menu li{
 }
 
 #fixednavigation a:visited, #fixednavigation-v-small a:visited{
-   color: #fff; 
+   color: #fff;
 }
 
 table.page_header, table.sect_header td.theader h2, table.sect_header div.header h2, div.sect_header h2{
@@ -133,7 +133,7 @@ margin: 0 1rem;
 }
 
 .wwf-footer-left a:hover{
- text-decoration: underline; 
+ text-decoration: underline;
 }
 
 
@@ -177,15 +177,15 @@ color: #f89834;
 }
  @media only screen and (max-width: 1121px) {
    .job-search-link{
-     position: absolute;
-top: 0;
-padding: .74rem;
+     position: absolute!important;
+top: 0!important;
+padding: .74rem!important;
    }
-   
+
    #fixednavigation{
-     padding: .65rem 11%;
+     padding: .65rem 11%!important;
    }
-   
+
    #fixednavigation a:link, #fixednavigation-v-small a:link{
      color: #000;
    }
@@ -196,7 +196,7 @@ padding: .74rem;
   text-align: center;
   padding: 1rem 0;
    }
-   
+
    .job-search-link{
      background: none;
      color: #000 !important;
@@ -208,23 +208,23 @@ font-size: .9rem;
        margin-top: -18px;
 /* padding: .74rem; */
    }
-   
+
    .wwf-footer-container{
      flex-direction: column;
    }
-   
+
    .wwf-footer-right, .wwf-footer-left {
     width: 100%;
    }
-   
+
    .wwf-footer-right span{
      margin: 1.2rem 1rem;
    }
-   
+
    .wwf-footer-logo{
      display: none;
    }
-   
+
    #fixednavigation a:link, #fixednavigation-v-small a:link, #fixednavigation a:visited, #fixednavigation-v-small a:visited{
      color: #000;
    }
