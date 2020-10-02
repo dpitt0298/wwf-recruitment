@@ -187,7 +187,11 @@ padding: 1.4rem!important;
    }
 
    #fixednavigation{
-     padding: 1.3rem 11%!important;
+     height: 4.3rem!important;
+   }
+   
+   #show-menu-button{
+     line-height: 4rem;
    }
 
    #fixednavigation a:link, #fixednavigation-v-small a:link{
