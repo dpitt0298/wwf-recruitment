@@ -175,6 +175,21 @@ text-transform: uppercase;
 .wwf-top-header a:hover {
 color: #f89834;
 }
+ @media only screen and (max-width: 1121px) {
+   .job-search-link{
+     position: absolute;
+top: 0;
+padding: .74rem;
+   }
+   
+   #fixednavigation{
+     padding: .65rem 11%;
+   }
+   
+   #fixednavigation a:link, #fixednavigation-v-small a:link{
+     color: #000;
+   }
+}
 
  @media only screen and (max-width: 1025px) {
 .wwf-top-header{
