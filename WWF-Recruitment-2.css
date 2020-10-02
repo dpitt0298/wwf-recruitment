@@ -175,6 +175,11 @@ text-transform: uppercase;
 .wwf-top-header a:hover {
 color: #f89834;
 }
+
+@media only screen and (min-width: 1121px) {
+  margin-top: -18px;
+padding: .74rem;
+}
  @media only screen and (max-width: 1121px) {
    .job-search-link{
      position: absolute!important;
