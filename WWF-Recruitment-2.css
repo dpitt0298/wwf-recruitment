@@ -187,11 +187,11 @@ color: #f89834;
      color: #000 !important;
 border-bottom: 1.5px solid #222 !important;
       font-family: 'Open Sans', sans-serif;
-/*    padding: .4rem .6rem !important; */
+   padding: .4rem .6rem !important;
 font-size: .9rem;
     transition: background-color 0.2s ease;
        margin-top: -18px;
-padding: .74rem;
+/* padding: .74rem; */
    }
    
    .wwf-footer-container{
