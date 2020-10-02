@@ -323,3 +323,8 @@ font-size: 1.6rem;
 body:not(.high-contrast-mode) .ss_mand_hid::after{
     color: #e70000;
 }
+
+
+.use-hamburger #show-menu-button, .use-hamburger #show-menu-button-v-small{
+  margin:0!important;
+}
