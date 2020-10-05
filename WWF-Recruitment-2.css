@@ -179,7 +179,7 @@ color: #f89834;
 @media only screen and (max-width: 1123px) {
 .horizontal #fixednavigation, .use-hamburger #fixednavigation, .use-hamburger #fixednavigation-v-small{
   height: 3.4rem;
-  padding: 0 11%;
+  padding: 1rem 11%;
   }
 
    .job-search-link{
@@ -195,7 +195,7 @@ padding: .96rem!important;
  @media only screen and (max-width: 769px) {
 .horizontal #fixednavigation, .use-hamburger #fixednavigation, .use-hamburger #fixednavigation-v-small, .wwf-header {
     height: 3.4rem;
-    padding: 0 4% !important;
+    padding: .96 4% !important;
 }
 }
 
