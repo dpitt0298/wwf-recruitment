@@ -191,20 +191,16 @@ padding: .96rem!important;
    }
 }
 
+ @media only screen and (max-width: 769px) {
+.horizontal #fixednavigation, .use-hamburger #fixednavigation, .use-hamburger #fixednavigation-v-small, .wwf-header {
+    padding: 1rem 3%;
+}
+}
+
  @media only screen and (max-width: 1025px) {
 .wwf-top-header{
   text-align: center;
   padding: 1rem 0;
-   }
-
-   .job-search-link{
-     background: none;
-     color: #000 !important;
-border-bottom: 1.5px solid #222 !important;
-      font-family: 'Open Sans', sans-serif;
-   padding: .4rem .6rem !important;
-font-size: .9rem;
-    transition: background-color 0.2s ease;
    }
 
    .wwf-footer-container{
