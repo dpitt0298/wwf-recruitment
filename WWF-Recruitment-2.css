@@ -176,7 +176,7 @@ text-transform: uppercase;
 color: #f89834;
 }
 
-@media only screen and (min-width: 1123px) {
+@media only screen and (max-width: 1123px) {
 .horizontal #fixednavigation, .use-hamburger #fixednavigation, .use-hamburger #fixednavigation-v-small{
   padding: 1rem 11%;
   }
