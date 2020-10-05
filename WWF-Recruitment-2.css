@@ -193,7 +193,7 @@ padding: .96rem!important;
 
  @media only screen and (max-width: 769px) {
 .horizontal #fixednavigation, .use-hamburger #fixednavigation, .use-hamburger #fixednavigation-v-small, .wwf-header {
-    padding: 1rem 3%;
+    padding: .9rem 4% !important;
 }
 }
 
