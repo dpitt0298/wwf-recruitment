@@ -258,13 +258,15 @@ a.apg_standard_bu, a.rpg_standard_bu, a.ppg_standard_bu, a.fin_standard_bu{
 .job-result-title, a.social-media-link{
   transition: .2s ease;
 }
-
-#appPages a, #wr_other a, .job-result-title:hover, .job-result-title{
+.job-result-title:hover, .job-result-title{
+color: #444;
+}
+#appPages a, #wr_other a{
   color: #f89834;
 }
 
 
-#appPages a:hover, #wr_other a:hover, .job-result-title:hover, .job-result-title:hover{
+#appPages a:hover, #wr_other a:hover{
 text-decoration: underline !important;
 }
 
