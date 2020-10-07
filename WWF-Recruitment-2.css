@@ -259,8 +259,8 @@ a.apg_standard_bu, a.rpg_standard_bu, a.ppg_standard_bu, a.fin_standard_bu{
   transition: .2s ease;
 }
 
-#wr_other a, .job-result-title:hover, .job-result-title:focus{
-  color: rgba(0,0,0, 0.6);
+#appPages a, #wr_other a, .job-result-title:hover, .job-result-title:focus{
+  color: #f89834;
 }
 
 a.social-media-link:hover path, a.social-media-link:focus path {
@@ -325,9 +325,7 @@ body:not(.high-contrast-mode) .ss_mand_hid::after{
     margin:0!important;
 }
 
-#appPages a {
-  color: #f89834;
-}
+
 
 #appPages a:hover{
 text-decoration: underline !important;
