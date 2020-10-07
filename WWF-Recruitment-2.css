@@ -324,3 +324,11 @@ body:not(.high-contrast-mode) .ss_mand_hid::after{
 #show-menu-button{
     margin:0!important;
 }
+
+#appPages a {
+  color: #f89834;
+}
+
+#appPages a:hover{
+text-decoration: underline !important;
+}
