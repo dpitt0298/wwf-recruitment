@@ -263,6 +263,11 @@ a.apg_standard_bu, a.rpg_standard_bu, a.ppg_standard_bu, a.fin_standard_bu{
   color: #f89834;
 }
 
+
+#appPages a, #wr_other a, .job-result-title:hover, .job-result-title:hover{
+text-decoration: underline !important;
+}
+
 a.social-media-link:hover path, a.social-media-link:focus path {
     fill: #f89834;
 }
@@ -327,6 +332,4 @@ body:not(.high-contrast-mode) .ss_mand_hid::after{
 
 
 
-#appPages a:hover{
-text-decoration: underline !important;
-}
+
