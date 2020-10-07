@@ -176,10 +176,9 @@ text-transform: uppercase;
 color: #f89834;
 }
 
-@media only screen and (max-width: 1123px) {
+@media only screen and (max-width: 1112px) {
 .horizontal #fixednavigation, .use-hamburger #fixednavigation, .use-hamburger #fixednavigation-v-small{
-  height: 3.4rem;
-  padding: 1rem 11%;
+  padding: 1.7rem 11%;
   }
 
    .job-search-link{
@@ -194,8 +193,7 @@ padding: .96rem!important;
 
  @media only screen and (max-width: 769px) {
 .horizontal #fixednavigation, .use-hamburger #fixednavigation, .use-hamburger #fixednavigation-v-small, .wwf-header {
-    height: 3.4rem;
-    padding: .96rem 4% !important;
+    padding: 1.7rem 4% !important;
 }
 }
 
